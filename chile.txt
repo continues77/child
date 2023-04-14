@@ -1,1 +1,2 @@
 0. git child -- commit
+1. add submodule -- commit
