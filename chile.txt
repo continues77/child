@@ -1,3 +1,4 @@
 0. git child -- commit
 1. add submodule -- commit
 2. add submoule 2 -- commit
+3. origin child working directory -- commit
